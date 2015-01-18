@@ -1,25 +1,28 @@
-15 Cheat Sheets
-cheat sheetÔ­ÒâÊÇ¿¼ÊÔ×÷±×´øµÄĞ¡³­£¬µ«Ò²²»ÍêÈ«ÊÇ×÷±×£¬¼ÇµÃ´óÑ§¿¼¼Æ×éÊ±¾ÍÔÊĞí´øÒ»ÕÅA4Ö½£¬ËùÒÔ×Ö¶¼Ğ´µÄ·Ç³£Ğ¡£¬·ÖÀ¸£¬Ë«Ãæ£¬¼Ç¹Ø¼üµã£¬ÒÔÇó½«¸ü¶àµÄÄÚÈİÅ¨Ëõµ½Ò»ÕÅÖ½ÉÏ¡£
+#15 Cheat Sheets
+[geeksword's blog](http://onestraw.net)
+************
 
-±¾ÎÄËùÖ¸µÄCheat SheetÊÇÖ¸Å¨ËõÁËÒ»¸ö¹¤¾ß»òÓï·¨¹æÔòÖªÊ¶µÄÒ»Á½Ò³pdf£¬Æğµ½Ò»¸öÌá¸ÙêüÁìµÄ×÷ÓÃ£¬·½±ã¿ìËÙ²éÕÒ¡£
+cheat sheetåŸæ„æ˜¯è€ƒè¯•ä½œå¼Šå¸¦çš„å°æŠ„ï¼Œä½†ä¹Ÿä¸å®Œå…¨æ˜¯ä½œå¼Šï¼Œè®°å¾—å¤§å­¦è€ƒè®¡ç»„æ—¶å°±å…è®¸å¸¦ä¸€å¼ A4çº¸ï¼Œæ‰€ä»¥å­—éƒ½å†™çš„éå¸¸å°ï¼Œåˆ†æ ï¼ŒåŒé¢ï¼Œè®°å…³é”®ç‚¹ï¼Œä»¥æ±‚å°†æ›´å¤šçš„å†…å®¹æµ“ç¼©åˆ°ä¸€å¼ çº¸ä¸Šã€‚
 
-1. Vim Cheat Sheet: Vim³£ÓÃÃüÁî¿ìËÙË÷Òı  
-2. GDB Cheat Sheet£º GDB³£ÓÃÃüÁî¿ìËÙË÷Òı  
-3. Regex Cheat Sheet: ÕıÔò±í´ïÊ½Óï·¨
-4. Shell Script Cheat Sheet: Shell½Å±¾±à³Ì³£ÓÃÓï·¨
-5. Linux Command Cheat Sheet: Linux³£ÓÃÃüÁî¿ìËÙË÷Òı
-6. Linux Admin Cheat Sheet: Linux¹ÜÀíÔ±³£ÓÃ²Ù×÷Ë÷Òı
-7. Ubuntu Cheat Sheet: Ubuntu³£ÓÃ¹ÜÀíÃüÁî
+æœ¬æ–‡æ‰€æŒ‡çš„Cheat Sheetæ˜¯æŒ‡æµ“ç¼©äº†ä¸€ä¸ªå·¥å…·æˆ–è¯­æ³•è§„åˆ™çŸ¥è¯†çš„ä¸€ä¸¤é¡µpdfï¼Œèµ·åˆ°ä¸€ä¸ªæçº²æŒˆé¢†çš„ä½œç”¨ï¼Œæ–¹ä¾¿å¿«é€ŸæŸ¥æ‰¾ã€‚
 
-8. AWK Cheat Sheet: AWKÓï·¨
-9. STL Cheat Sheet: C++ STL¿ìËÙË÷Òı
-10. SQL Cheat Sheet: SQLÓï·¨
-11. MYSQL Cheat Sheet: MYSQLÊı¾İÀàĞÍ¡¢º¯Êı¡¢PHP API
+1. Vim Cheat Sheet: Vimå¸¸ç”¨å‘½ä»¤å¿«é€Ÿç´¢å¼•  
+2. GDB Cheat Sheetï¼š GDBå¸¸ç”¨å‘½ä»¤å¿«é€Ÿç´¢å¼•  
+3. Regex Cheat Sheet: æ­£åˆ™è¡¨è¾¾å¼è¯­æ³•
+4. Shell Script Cheat Sheet: Shellè„šæœ¬ç¼–ç¨‹å¸¸ç”¨è¯­æ³•
+5. Linux Command Cheat Sheet: Linuxå¸¸ç”¨å‘½ä»¤å¿«é€Ÿç´¢å¼•
+6. Linux Admin Cheat Sheet: Linuxç®¡ç†å‘˜å¸¸ç”¨æ“ä½œç´¢å¼•
+7. Ubuntu Cheat Sheet: Ubuntuå¸¸ç”¨ç®¡ç†å‘½ä»¤
 
-12. Tcpdump Cheat Sheet: tcpdumpÃüÁî¼°¹ıÂË¹æÔò
+8. AWK Cheat Sheet: AWKè¯­æ³•
+9. STL Cheat Sheet: C++ STLå¿«é€Ÿç´¢å¼•
+10. SQL Cheat Sheet: SQLè¯­æ³•
+11. MYSQL Cheat Sheet: MYSQLæ•°æ®ç±»å‹ã€å‡½æ•°ã€PHP API
+
+12. Tcpdump Cheat Sheet: tcpdumpå‘½ä»¤åŠè¿‡æ»¤è§„åˆ™
 13. Wireshark Cheat Sheet: wireshark Display filters
-14. Google Cheat Sheet: googleËÑË÷¼¼ÇÉ
-15. Github Cheat Sheet: gitÃüÁî
+14. Google Cheat Sheet: googleæœç´¢æŠ€å·§
+15. Github Cheat Sheet: gitå‘½ä»¤
 
-´ËÍâ£¬ÓĞ1¸öÍøÕ¾Ò²×öÁË·ÖÀàÍ³¼Æ£¬ÄÚÈİ·Ç³£·á¸»¡£  
+æ­¤å¤–ï¼Œæœ‰1ä¸ªç½‘ç«™ä¹Ÿåšäº†åˆ†ç±»ç»Ÿè®¡ï¼Œå†…å®¹éå¸¸ä¸°å¯Œã€‚  
 [Cheet-Sheets.org](http://www.cheat-sheets.org/)
