@@ -23,6 +23,8 @@ cheat sheet原意是考试作弊带的小抄，但也不完全是作弊，记得
 13. Wireshark Cheat Sheet: wireshark Display filters
 14. Google Cheat Sheet: google搜索技巧
 15. Github Cheat Sheet: git命令
+16. GNU Make Cheat Sheet: make/makefile
 
-此外，有1个网站也做了分类统计，内容非常丰富。  
-[Cheet-Sheets.org](http://www.cheat-sheets.org/)
+此外，有2个网站也做了分类统计，内容非常丰富。  
+- [Cheet-Sheets.org](http://www.cheat-sheets.org/)
+- [janosgyerik](https://github.com/janosgyerik/cheatsheets)
