@@ -9,12 +9,13 @@ cheat sheet原意是考试作弊带的小抄，但也不完全是作弊，记得
 1. Vim Cheat Sheet: Vim常用命令快速索引  
 2. GDB Cheat Sheet： GDB常用命令快速索引  
 3. Regex Cheat Sheet: 正则表达式语法
+3. Sed Cheat Sheet: 流编辑器sed用法索引
+3. Awk Cheat Sheet: 文本处理工具awk用法索引
 4. Shell Script Cheat Sheet: Shell脚本编程常用语法
 5. Linux Command Cheat Sheet: Linux常用命令快速索引
 6. Linux Admin Cheat Sheet: Linux管理员常用操作索引
 7. Ubuntu Cheat Sheet: Ubuntu常用管理命令
 
-8. AWK Cheat Sheet: AWK语法
 9. STL Cheat Sheet: C++ STL快速索引
 10. SQL Cheat Sheet: SQL语法
 11. MYSQL Cheat Sheet: MYSQL数据类型、函数、PHP API
@@ -24,6 +25,7 @@ cheat sheet原意是考试作弊带的小抄，但也不完全是作弊，记得
 14. Google Cheat Sheet: google搜索技巧
 15. Github Cheat Sheet: git命令
 16. GNU Make Cheat Sheet: make/makefile
+17. markdown: 标记语言markdown
 
 此外，有2个网站也做了分类统计，内容非常丰富。  
 - [Cheet-Sheets.org](http://www.cheat-sheets.org/)
